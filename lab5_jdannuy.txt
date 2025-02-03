@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab5.py
+=================================================================
+    User login name: jdannuy
+    Linux system name: jdannuy
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/jdannuy/ops445/lab5
+    Start at: Mon Feb  3 18:36:42 2025
+=================================================================
